@@ -1,0 +1,5 @@
+Change log : 
+
+Implemented Huggingface download counter tool in guidance natively
+
+To run and check, Clone the repo and run the huggingface_download_counter_tool.py
