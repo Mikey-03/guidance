@@ -6,4 +6,4 @@ print(f"{tool.name}: {tool.description}")
 
 print("The most downloaded model for depth-estimation : ", tool.run("depth-estimation"))
 
-#Try for "text-classification" --->> facebook/bart-large-mnli
+#Try for "text-classification" ---> facebook/bart-large-mnli
